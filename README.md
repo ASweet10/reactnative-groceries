@@ -1,7 +1,6 @@
-# react native groceries
-
+# reactnative-groceries
 - React Native
-- Nativewind CSS
 - TypeScript
+- NativeWind
+- SQLite
 - Supabase
-- SQLite offline-persistence
