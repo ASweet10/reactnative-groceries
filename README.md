@@ -4,3 +4,4 @@
 - NativeWind
 - SQLite
 - Supabase
+- Expo for development
